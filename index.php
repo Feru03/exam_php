@@ -1,5 +1,7 @@
 <?php
 
-include_once "/opt/lampp/htdocs/exam_php/connexion.php";
+include_once "connexion.php";
+header("Location: inscription.php");
 
 ?>
+
